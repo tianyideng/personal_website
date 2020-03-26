@@ -98,4 +98,6 @@ theme: hexo-theme-3-hexo-master
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/tianyideng/tianyideng.github.io.git
+  branch: master
